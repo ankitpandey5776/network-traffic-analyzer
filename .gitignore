@@ -1,0 +1,11 @@
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Power BI temporary files
+*.pbix.temp
+*.pbit
+
+# Office temporary files
+~$*
